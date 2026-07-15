@@ -38,4 +38,6 @@ setup.kibana: host: "localhost:5601" Enable modules: sudo metricbeat modules ena
 📊 Part 6: Load Dashboards (Optional) sudo filebeat setup sudo metricbeat setup Now open Kibana → Dashboard and search: • “Filebeat System Logs” • “Metricbeat Docker Metrics” or “System Overview”
 
 ✅ Summary Component Access Kibana http://:5601 Elasticsearch http://:9200 Logstash Port 5044 for Beats input
+ [Task4.rtf](https://github.com/user-attachments/files/30050807/Task4.rtf)
+
 
